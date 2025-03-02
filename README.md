@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-👨‍💻 Atualmente estudando JavaScript, React e conceitos fundamentais para o funcionamento da Web!
+👨‍💻 Atualmente estudando JavaScript e conceitos fundamentais para o funcionamento da Web!
 
 
 ## 🌐 Redes Sociais:
