@@ -1,4 +1,4 @@
-![Hero](https://github.com/user-attachments/assets/c45eae03-509f-42b6-ade8-3c4defbb3b51)
+![banner](https://github.com/user-attachments/assets/8c6cdaf5-d0dc-4f59-af34-58f5d1949559)
 
 # 💫 Sobre Mim:
 👨‍💻 Atualmente estudando JavaScript e conceitos fundamentais para o funcionamento da Web!
