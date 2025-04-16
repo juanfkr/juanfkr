@@ -1,3 +1,5 @@
+![Hero](https://github.com/user-attachments/assets/c45eae03-509f-42b6-ade8-3c4defbb3b51)
+
 # 💫 Sobre Mim:
 👨‍💻 Atualmente estudando JavaScript e conceitos fundamentais para o funcionamento da Web!
 
