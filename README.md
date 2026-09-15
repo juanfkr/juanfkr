@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-**Backend Development Student** · 📚 *B.Sc. in Information Systems – UFMS*
+**Backend Development Student** · 📚 *B.Sc. in Information Systems – at Federal University of Mato Grosso do Sul*
 
 > Currently deepening my Java skills and eager to contribute to open-source and collaborative projects.
 
