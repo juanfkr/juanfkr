@@ -1,8 +1,8 @@
 # Hi there! 👋
 
-**Backend Development Student** · 📚 *B.Sc. in Information Systems at Federal University of Mato Grosso do Sul*
+**Software Development Student** · 📚 *B.Sc. in Information Systems at Federal University of Mato Grosso do Sul*
 
-> Currently deepening my development skills and eager to contribute to open-source and collaborative projects.
+> Currently deepening my software development skills and eager to contribute to open-source and collaborative projects.
 > 
 ## 📬 Get in Touch
 
